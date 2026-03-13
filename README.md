@@ -76,7 +76,7 @@ API specifications are available in:
 
 ### Requirements
 
-* Java 21+
+* Java 21
 * Maven
 * Docker (optional)
 
